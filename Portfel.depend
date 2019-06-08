@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1517180221 source:d:\pliki\documents\codeblocks\c++\portfel\aktywo.cpp
+	"Aktywo.hpp"
+
+1517180221 d:\pliki\documents\codeblocks\c++\portfel\aktywo.hpp
+	<iostream>
+
+1517184409 source:d:\pliki\documents\codeblocks\c++\portfel\portfel.cpp
+	<iostream>
+	"Aktywo.hpp"
+	"Lokata.hpp"
+
+1517180573 source:d:\pliki\documents\codeblocks\c++\portfel\lokata.cpp
+	"Lokata.hpp"
+
+1517180173 d:\pliki\documents\codeblocks\c++\portfel\lokata.hpp
+	<iostream>
+	<math.h>
+	"Aktywo.hpp"
+
+1516714344 d:\pliki\documents\codeblocks\c++\portfel\include\lokata.hpp
+	<Aktywo.hpp>
+
+1516715746 d:\pliki\documents\codeblocks\c++\portfel\\aktywo.hpp
+	<iostream>
+	<Lokata.hpp>
+
+1517185759 source:d:\pliki\documents\codeblocks\c++\portfel\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"Aktywo.hpp"
+	"Lokata.hpp"
+	"Fundusz.hpp"
+	"FunduszDywidenda.hpp"
+	"Kontrakt.hpp"
+	"Nieruchomosc.hpp"
+	"IKE.hpp"
+	"Portfel.cpp"
+
+1517184409 d:\pliki\documents\codeblocks\c++\portfel\portfel.cpp
+	<iostream>
+	"Aktywo.hpp"
+	"Lokata.hpp"
+
+1517180262 source:d:\pliki\documents\codeblocks\c++\portfel\fundusz.cpp
+	"Fundusz.hpp"
+
+1517180251 d:\pliki\documents\codeblocks\c++\portfel\fundusz.hpp
+	<iostream>
+	<math.h>
+	"Aktywo.hpp"
+
+1517180290 source:d:\pliki\documents\codeblocks\c++\portfel\funduszdywidenda.cpp
+	"FunduszDywidenda.hpp"
+
+1517180275 d:\pliki\documents\codeblocks\c++\portfel\funduszdywidenda.hpp
+	<iostream>
+	<math.h>
+	"Fundusz.hpp"
+
+1517180173 source:d:\pliki\documents\codeblocks\c++\portfel\ike.cpp
+	"IKE.hpp"
+
+1517180173 d:\pliki\documents\codeblocks\c++\portfel\ike.hpp
+	<iostream>
+	<math.h>
+	"Aktywo.hpp"
+
+1517180173 source:d:\pliki\documents\codeblocks\c++\portfel\kontrakt.cpp
+	"Kontrakt.hpp"
+
+1517180171 d:\pliki\documents\codeblocks\c++\portfel\kontrakt.hpp
+	<iostream>
+	<math.h>
+	"Aktywo.hpp"
+
+1517180173 d:\pliki\documents\codeblocks\c++\portfel\nieruchomosc.hpp
+	<iostream>
+	<math.h>
+	"Aktywo.hpp"
+
+1517180171 source:d:\pliki\documents\codeblocks\c++\portfel\nieruchomosc.cpp
+	"Nieruchomosc.hpp"
+

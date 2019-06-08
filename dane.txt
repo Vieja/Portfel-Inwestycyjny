@@ -1,0 +1,12 @@
+Lokata
+Srebrna 2000 1.5 12 2
+Millenium 4500 5.2 18 1
+Fundusz
+Nowa_opcja 5.678 5.5
+FunduszDywidenda
+Kontrakt
+BZWBK 3500 14 4000
+Nieruchomosc
+Dzialeczka 6000 15
+IKE
+Koniec
